@@ -1,0 +1,8 @@
+streamlit
+pandas
+pymupdf
+python-docx
+spacy
+
+# Additional setup step to download the spaCy model
+# After installing requirements.txt, run: python -m spacy download en_core_web_sm
